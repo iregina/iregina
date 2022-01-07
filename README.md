@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Friend! 👋
 
 
 - 🔭 I’m currently working on Advent of Code 2021.
